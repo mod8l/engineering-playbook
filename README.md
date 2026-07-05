@@ -26,6 +26,17 @@ This repo is a living set of opinions and templates, not a rulebook. Every organ
   - [Evaluation Framework](ai-adoption/evaluation-framework.md)
   - [Responsible AI Checklist](ai-adoption/responsible-ai-checklist.md)
   - [Experiment Log Template](ai-adoption/experiment-log-template.md)
+- [Leadership](leadership/)
+  - [R&D Org Design](leadership/rd-org-design.md)
+  - [Startup Scaling Playbook](leadership/startup-scaling-playbook.md)
+  - [Board Communications](leadership/board-communications.md)
+  - [Technical Due Diligence](leadership/technical-due-diligence.md)
+  - [R&D Metrics](leadership/rd-metrics.md)
+  - [Platform Economics](leadership/platform-economics.md)
+  - [Essays](leadership/essays/)
+    - [First Six Months of ML at a Startup](leadership/essays/first-six-months-of-ml-at-a-startup.md)
+    - [Why Your AI Demo Is Not a Product](leadership/essays/why-your-ai-demo-is-not-a-product.md)
+    - [Hiring for Shipping, Not Just Research](leadership/essays/hiring-for-shipping-not-just-research.md)
 
 ## How to Use This Repo
 
