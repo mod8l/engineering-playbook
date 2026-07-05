@@ -3,7 +3,11 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Markdown Lint](https://github.com/gadsosa/engineering-playbook/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/gadsosa/engineering-playbook/actions/workflows/markdown-lint.yml)
 
-A public, employer-agnostic playbook for R&D leadership: how I hire, review code, respond to incidents, and adopt AI responsibly.
+A public, employer-agnostic playbook for R&D leadership: how I hire, review code, respond to incidents, adopt AI responsibly, and scale startups to production.
+
+I use these templates when I advise founders or join a company as VP R&D. The goal is not to ship a rulebook; it is to give teams a starting point they can adapt quickly so they spend less time arguing about process and more time shipping reliable systems.
+
+**Related work:** [`ml-inference-starter`](../ml-inference-starter) for a reference serving architecture, [`ml-security-checklist`](../ml-security-checklist) for production readiness and security, [`platform-scripts`](../platform-scripts) for reusable tooling, and [`publications-and-talks`](../publications-and-talks) for essays and talks.
 
 This repo is a living set of opinions and templates, not a rulebook. Every organization has different constraints, so treat each page as a starting point for conversation rather than a mandate. I have written it in first-person voice where it felt natural, because leadership practices are ultimately personal: they reflect what I have seen work, what I have seen fail, and what I am still learning.
 
