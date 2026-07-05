@@ -1,7 +1,7 @@
 # Engineering Playbook
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Markdown Lint](https://github.com/gadsosa/engineering-playbook/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/gadsosa/engineering-playbook/actions/workflows/markdown-lint.yml)
+[![Markdown Lint](https://github.com/mod8l/engineering-playbook/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/mod8l/engineering-playbook/actions/workflows/markdown-lint.yml)
 
 A public, employer-agnostic playbook for R&D leadership: how I hire, review code, respond to incidents, adopt AI responsibly, and scale startups to production.
 
